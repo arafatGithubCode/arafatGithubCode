@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="arafat" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="blank">
-  <img src="https://github.com/arafatGithubCode/arafatGithubCode/issues/2#issue-2161352053" alt="arafat"  </p> 
+  <img src="https://github.com/arafatGithubCode/arafatGithubCode/issues/2#issue-2161352053" alt="arafat" />  </p> 
   
 - 🔭 I’m currently looking for a job                                                                                
   
