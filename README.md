@@ -2,22 +2,22 @@
   <img src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/0df54cbb-2735-4db1-bc7a-d1a32f838663" style="width: 100%; height: 530px; object-fit: cover;"/>
 </div> 
   
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arafat Hossain</h1>
+<h3 align="center">A passionate Frontend Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="arafat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="blank">
+  <img src="https://github.com/arafatGithubCode/arafatGithubCode/issues/2#issue-2161352053" alt="arafat"  </p> 
+  
+- 🔭 I’m currently looking for a job                                                                                
+  
+- 🌱 I’m currently learning and sharpening **MERN**                                                                                                                                                                                                                                                                                                                                       
+- 💬 Ask me about **MEARN**
 
-- 🔭 I’m currently working on **Vexa Web App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **arafat8720@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+                    
+                      
+  
