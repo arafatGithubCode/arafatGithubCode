@@ -2,7 +2,9 @@
   <img src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/0df54cbb-2735-4db1-bc7a-d1a32f838663" style="width: 100%; height: 500px; object-fit: cover;"/>
 </div>  
 <div align="center">
+  <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="_blank"
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
