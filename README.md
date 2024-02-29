@@ -1,4 +1,7 @@
-![Burgandy Gradient Marketing Infographic Instagram Post (1)](https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/0df54cbb-2735-4db1-bc7a-d1a32f838663)               
+<div align="center" style="overflow: hidden;">
+  <img src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/0df54cbb-2735-4db1-bc7a-d1a32f838663" style="width: 100%; height: 530px; object-fit: cover;"/>
+</div> 
+  
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
