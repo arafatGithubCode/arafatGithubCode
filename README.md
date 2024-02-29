@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="100%" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/56bddb3d-d226-4890-bbc9-2f2486a351a0"/>
+  <img height="500px" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/56bddb3d-d226-4890-bbc9-2f2486a351a0"/>
 </div>
 
 ###
