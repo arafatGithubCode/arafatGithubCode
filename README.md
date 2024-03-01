@@ -3,8 +3,8 @@
  </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafat+Hossain!;" />
-</h1>
-<h3 align="center">A passionate Frontend Web Developer</h3>
+</h1>                    
+ <h3 align="center">A passionate Frontend Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <a href="https://drive.google.com/file/d/1crHliQnAQ84HPz7o3briU9mrd-Amgil8/view?usp=sharing"> Checkout Resume <img width="60px" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/923a23cd-71b2-402a-855e-be028005a3e0" /></a>
@@ -62,17 +62,9 @@
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=arafatGithubCode)](https://git.io/streak-stats)                                                                                    <img width=390 src="https://streak-stats.demolab.com/?user=arafatGithubCode)](https://git.io/streak-stats"/>                                                                                <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />                                                            
- <br/>                                        
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>                    
-<br/><br/>
-
-<hr/>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Thank you dear for visiting;+Shoot me+ a message on Linkedin!;+I'm always available for a call!" />
+</h1>                    
 <br/>
 
 <div align="center">
