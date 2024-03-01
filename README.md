@@ -61,10 +61,7 @@
   <br/><br/><br/>
 </div>
 <hr/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Thank you dear for visiting;+Shoot me+ a message on Linkedin!;+I'm always available for a call!" />
-</h1>                    
+  
 <br/>
 
 <div align="center">
