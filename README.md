@@ -1,10 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafat+Hossain!;" />
 </h1>                    
- <h3 align="center">A passionate Frontend Web Developer</h3>
+ <h3 align="center">A passionate Web Designer & MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<a href="https://drive.google.com/file/d/1crHliQnAQ84HPz7o3briU9mrd-Amgil8/view?usp=sharing"> Checkout Resume <img width="60px" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/923a23cd-71b2-402a-855e-be028005a3e0" /></a>
+<a href="https://drive.google.com/file/d/1Mh-R9LGh1QqXmH_GLeN9IWGtLATQgIsC/view"> Checkout Resume <img width="60px" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/923a23cd-71b2-402a-855e-be028005a3e0" /></a>
 
 <div align="center"> 
   <a href="mailto:arafat8720@gmail.com">
