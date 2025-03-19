@@ -11,28 +11,6 @@
 <br />
 <hr />
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arafatGithubCode/arafatGithubCode/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<hr/>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Thanks+dear!+feel free;+to message me on Linkedin!;" />
-</div>    
-
-<div align="center">
-<img style="width: 90%; height: 400px" src="https://github.com/arafatGithubCode/arafatGithubCode/assets/141217284/53024057-4554-4809-ab4d-30f33bdb6de8" />
- </div>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-</div>
 
 ###
